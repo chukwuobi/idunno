@@ -1,0 +1,39 @@
+
+
+
+
+
+
+<head>
+body {background-color: #777;}
+
+	p
+	{ 
+	max-width: 960px;
+	margin-left: 167px;
+	border: 1px solid white;
+	background-color: white;	
+	padding: 30px;
+	font-family: arial;
+	font-size: 18px;
+	color: gray;
+	text-align: center;
+	}	
+</head>
+
+
+<nav>
+	p
+	{
+	max-width: 960px;
+	margin-left: 167px;
+	border: 1px solid white;
+	background-color: white;
+	padding: 30px;
+	font-family: arial;
+	font-size: 18px;
+	color: gray;
+	text-align: center;
+	}
+</nav>
+
